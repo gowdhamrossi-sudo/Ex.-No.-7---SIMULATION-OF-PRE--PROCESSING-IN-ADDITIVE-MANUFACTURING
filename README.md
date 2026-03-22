@@ -47,7 +47,7 @@
 ![Screenshot 2025-04-24 155300](https://github.com/user-attachments/assets/34da058c-ad14-4e4b-9d01-c55991a52b8e)
 
 ### Name: GOWTHAM M
-### Register Number: 25016844
+### Register Number: 212225100013
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
